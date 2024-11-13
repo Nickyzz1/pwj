@@ -1,0 +1,8 @@
+conectar dois motores dc a ponte h e conectar a ponte h a raspberry
+linux na raspberry:
+ctrl + alt + f1 para abrir o terminal
+ver qual versão do linux tem nela
+se preciso atualizar a raspberryu e daí instalar a interface gráfica
+padrão login:
+login : pi
+senha: raspberry
