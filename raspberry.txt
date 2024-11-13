@@ -6,3 +6,4 @@ se preciso atualizar a raspberryu e daí instalar a interface gráfica
 padrão login:
 login : pi
 senha: raspberry
+caso der erro atualize a senha padrão e o usuário padrão
